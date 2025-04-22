@@ -1,7 +1,7 @@
+# Netflix GPT
 
-
-
-
+- Create React App
+- Configured Tailwind CSS
 - Header
 - Routing of app
 - Login Form
@@ -9,7 +9,7 @@
 - Form Validation
 - UseRef Hook
 - FireBase Setup 
-Deploying our app to production
+- Deploying our app to production
 - Create SignUp User Account
 - Implement Sign In user Api
 - Created Redux Store with userslice
@@ -27,14 +27,13 @@ Deploying our app to production
 - Update Store with Trailer Video Data
 - Embedded the Youtube video and make it autoplay and mute
 - Tailwind Classes to make Main Container look awesome
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- Build Secondary Componenets
+- Build Movie List
+- Build Movie Card
+- TMDB Image CDN URL
+- Made the Browse page amazing with Tailwind CSS
+- usePopularMovies Custom hook
+
 
 # Features
 - Login/Sign Up
@@ -47,18 +46,8 @@ Deploying our app to production
         - Titile & Descripption
         - Movie Suggestions
 - NetflixGPT
-- Search Bar
-- Movie Suggestions
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-
+    - Search Bar
+    - Movie Suggestions
 
 
 # Getting Started with Create React App
